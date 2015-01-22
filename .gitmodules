@@ -1,0 +1,3 @@
+[submodule "jni/fftw3/lib"]
+	path = jni/fftw3/lib
+	url = git@github.com:HounD/fftw3-3.3.4.git
