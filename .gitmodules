@@ -1,3 +1,6 @@
 [submodule "jni/fftw3/lib"]
 	path = jni/fftw3/lib
 	url = git@github.com:HounD/fftw3-3.3.4.git
+[submodule "jni/usb/lib"]
+	path = jni/usb/lib
+	url = git@github.com:HounD/libusb-v1.0.19.git
